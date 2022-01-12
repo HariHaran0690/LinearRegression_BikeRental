@@ -1,52 +1,43 @@
-# Project Name
-> Outline a brief description of your project.
-
+# Linear Regression (Bike Rental Demand)
+> This programming assignment wherein you have build a multiple linear regression model for the prediction of demand for shared bikes
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+
+BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid-19. They have planned this to prepare themselves to cater to the people's needs once the situation gets better all around and stand out from other service providers and make huge profits.
+
+You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Temperature play a vital role for making decision for the Organisation.
+- Season and Weathersit too impacts the business, So consider that too for better business outcomes
+- Working days as they have good influence on bike rentals. So providing offers for working professional can improve the business
+- We can see demand for bikes was more in 2019 than 2018
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- statsmodels
+- sklearn
+- etc 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by 
 
+- [@HariHaran0690] haran.jayan1@gmail.com
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Please feel free to contact us! Happy Coding !!
