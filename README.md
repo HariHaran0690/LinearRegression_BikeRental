@@ -29,6 +29,8 @@ You are required to model the demand for shared bikes with the available indepen
 - NumPy
 - Matplotlib
 - Seaborn
+- statsmodels
+- sklearn
 - etc 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
